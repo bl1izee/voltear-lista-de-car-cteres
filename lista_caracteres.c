@@ -7,10 +7,6 @@
 /* Incluimos las bibliotecas */
 #include <stdio.h>
 
-/* Definimos algunas variables */
-#define longMax 110 // Longitud máxima = 10 palabras * 10 letras + 9 comas + 1 \0
-#define longMin 8 // Longitud mínima = 2 palabras * 3 letras mínimo + 1 coma + 1 \0
-
 /* Definimos las funcines */
 int comprobarInput(int *longitud); // Comprueba que la longitud de cada palabra es la adecuada
 int comprobarLongitud(int longitud); 
