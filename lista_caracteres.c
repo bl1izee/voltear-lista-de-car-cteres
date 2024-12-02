@@ -1,13 +1,8 @@
 /*
 *****************************************************************************
-*							Créditos: 					*
+*			    	  Créditos: 				    *
 *****************************************************************************
-*									Enunciado								*
-*****************************************************************************
-Introducir una única línea que contenga entre 2 y 10 palabras separadas por coma (,), sin espacios, y 
-presentarlas en orden inverso. Las palabras tendrán un máximo de 10 letras. El número de palabras es 
-desconocido, sólo sabemos que serán como mínimo 2 y como máximo 10, el programa debe adaptarse 
-a lo que introduzca el usuario.
+
 */
 
 /* Incluimos las bibliotecas */
